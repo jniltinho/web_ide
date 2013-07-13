@@ -9,9 +9,9 @@ Standlone Web IDE
 Installation
 ====
     cd /opt/
-    git clone http://github.com/jniltinho/web_ide
-    mv web_ide lampp
+    git clone http://github.com/jniltinho/web_ide.git lampp
     cd lampp
+    chmod +x start_web_ide.sh
     ./start_web_ide.sh
     http://server_ip:9393
 
