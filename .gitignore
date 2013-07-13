@@ -1,0 +1,17 @@
+
+
+
+## Folders
+logs/*
+flask
+venv
+env
+
+## Files
+*.pyc
+http.log
+comandos_git.sh
+.directory
+generate.py
+
+
